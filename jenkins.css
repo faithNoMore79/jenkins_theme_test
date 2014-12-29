@@ -5,6 +5,7 @@ body, table, form, input, td, th, p, textarea, select {
 #main-table {
  
   margin: 0px 0px 0px 0px;
+  margin-bottom: 0px;
 }
 
 
