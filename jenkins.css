@@ -1,0 +1,13 @@
+body, table, form, input, td, th, p, textarea, select {
+  font-size : 12px;
+}
+
+#main-table {
+ // background-image: url(snowrabbit.png) !important;
+  margin: 0px 0px 0px 0px;
+}
+
+
+#side-panel-content, #main-panel-content {
+margin: 5px;
+}
